@@ -1,3 +1,4 @@
+Add salt
 Add chips
 4 avocados
 1/4 lemon
@@ -6,3 +7,4 @@ add more hot sauce
 add more cilantro
 add pepper # make it hot
 add more cilantro
+Add vinegar
